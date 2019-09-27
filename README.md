@@ -1,4 +1,3 @@
 # Coursera_Capston
 
-link to my project
-https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5d228cbd-00e5-4e25-b3c7-d6d920bbdf39/view?access_token=bdc18807bf854511e6887eeb8d0077a326916b0f5007b4a8b95696839f89f78f
+{"cells":[{"metadata":{"_uuid":"8f2839f25d086af736a60e9eeb907d3b93b6e0e5","_cell_guid":"b1076dfc-b9ad-4769-8c92-a6c4dae69d19","trusted":true},"cell_type":"code","source":"import  pandas  as pd\nimport numpy as np\nprint('Hello Capstone Project Course!')","execution_count":null,"outputs":[]}],"metadata":{"kernelspec":{"language":"python","display_name":"Python 3","name":"python3"},"language_info":{"pygments_lexer":"ipython3","nbconvert_exporter":"python","version":"3.6.4","file_extension":".py","codemirror_mode":{"name":"ipython","version":3},"name":"python","mimetype":"text/x-python"}},"nbformat":4,"nbformat_minor":1}
